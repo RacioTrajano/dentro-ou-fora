@@ -1,5 +1,6 @@
 #include <stdio.h>
 // apareceu este comentário ?
+// sim apareceu
 int main () {
 int XE, YE, XD, YD;
 int XP, YP;
