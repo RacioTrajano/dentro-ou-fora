@@ -2,6 +2,7 @@
 // apareceu este comentário ?
 // sim apareceu
 // vamos ver se agora vai ?
+// acho que deu certo ...
 int main () {
 int XE, YE, XD, YD;
 int XP, YP;
