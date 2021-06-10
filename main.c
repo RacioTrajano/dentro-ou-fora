@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// apareceu este comentário ?
 int main () {
 int XE, YE, XD, YD;
 int XP, YP;
